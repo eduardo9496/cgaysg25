@@ -1,6 +1,6 @@
 
 let particles = [];
-let tam = 12;
+let tam = 8;
 
 function setup() {
   createCanvas(720, 1280); 
